@@ -1,18 +1,18 @@
 {
   "leetcode": {
     "rating": 1897,
-    "percentile": 4.8,
+    "percentile": 4.81,
     "badge": "Knight",
-    "updated_at": "2026-11-19T07:40:24+00:00"
+    "updated_at": "2026-11-19T20:50:37+00:00"
   },
   "atcoder": {
     "rating": 1190,
     "badge": "5 kyu",
-    "updated_at": "2026-11-19T07:40:24+00:00"
+    "updated_at": "2026-11-19T20:50:37+00:00"
   },
   "codechef": {
     "rating": 1738,
     "stars": 3,
-    "updated_at": "2026-11-19T07:40:24+00:00"
+    "updated_at": "2026-11-19T20:50:37+00:00"
   }
 }
